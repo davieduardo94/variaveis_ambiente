@@ -1,6 +1,7 @@
 # Como usar variaveis de ambiente para guardar senhas e keys de forma segura
 ### Crie um arquivo .env
-Esse arquivo deve conter os dados importantes como usuario e senha
+O arquivo deve estar salvo dentro da pasta do projeto. Esse arquivo deve conter os dados importantes como usuario e senha
+
 EX:
  usuario = "seu_usuario"
  senha = "sua_senha"
